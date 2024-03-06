@@ -1,4 +1,4 @@
-https://copilot.microsoft.com/images/create/elinde--yazc4b1lc4b1m-kodlarc4b1ndan-oluc59fan-kalp-tutan-erke/1-65e8732d7c224a368663ad209d4f22f4?id=RbcEuJLr6bmKqoqIlkJItg%3d%3d&view=detailv2&idpp=genimg&thId=OIG3.GBEI97nMaIe5vly_QO7_&FORM=GCRIDP&mode=overlay
+
 <h1 align="center">Hi 👋, I'm İrfan Ayaz</h1>
 <h3 align="center">I only develop software as a hobby.</h3>
 
