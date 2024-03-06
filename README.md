@@ -16,3 +16,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayazirfan&show_icons=true&locale=en" alt="ayazirfan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayazirfan&" alt="ayazirfan" /></p>
+
+
+![snake gif](https://github.com/ayazirfan/ayazirfan/blob/output/github-contribution-grid-snake.gif)
