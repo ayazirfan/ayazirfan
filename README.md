@@ -14,7 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayazirfan&show_icons=true&locale=en&layout=compact" alt="ayazirfan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayazirfan&show_icons=true&locale=en" alt="ayazirfan" width="100" height="60" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayazirfan&show_icons=true&locale=en" alt="ayazirfan" width="400" height="100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayazirfan&" alt="ayazirfan" /></p>
 
