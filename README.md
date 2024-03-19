@@ -1,6 +1,6 @@
 ![_36d20023-1f35-4759-b886-a54ee9681354](https://github.com/ayazirfan/ayazirfan/assets/150783915/e9e84460-16d1-4c7c-abaf-c310a3320d7a)
 
-<h1 align="center">Hi 👋, I'm İrfan Ayaz</h1>
+<h1 align="center">Hi 👋, I'm İrfan </h1>
 <h3 align="center">I only develop software as a hobby.</h3>
 
 <h3 align="left">Connect with me:</h3>
